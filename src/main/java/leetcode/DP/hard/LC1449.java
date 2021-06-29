@@ -1,4 +1,4 @@
-package leetcode.DP;
+package leetcode.DP.hard;
 
 
 public class LC1449 {
